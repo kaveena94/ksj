@@ -1,4 +1,64 @@
 <resources>
     <string name="app_name">Neethra Eye Hospital</string>
     <string name="b1">OK</string>
+    <string name="EyeTest">EyeTesting</string>
+    <string name="EyeTest01">Refraction</string>
+    <string name="EyeTest01Des">Evaluate refractive errors and prescribe needy prescriptions to make spectacles</string>
+    <string name="EyeTest01Price">Price: LKR.1000/=</string>
+    <string name="EyeTest01Check">Yes/No</string>
+    <string name="EyeTest02">GDx</string>
+    <string name="EyeTest02Des">Retinal nerve fiber layer thickness</string>
+    <string name="EyeTest02Price">Price: LKR.1500/=</string>
+    <string name="EyeTest02Check">Yes/No</string>
+    <string name="EyeTest03">Visual field</string>
+    <string name="EyeTest03Des">To check the field of peripheral vision</string>
+    <string name="EyeTest03Price">Price: LKR. 1000/=</string>
+    <string name="EyeTest03Check">Yes/No</string>
+    <string name="EyeTest04">Fundus photography</string>
+    <string name="EyeTest04Des">Patients with anterior segment pathology</string>
+    <string name="EyeTest04Price">Price: LKR.2500/=</string>
+    <string name="EyeTest04Check">Yes/No</string>
+    <string name="EyeTest05">Orthoptic tests</string>
+    <string name="EyeTest05Des">To find out any extra ocular muscle dysfunction in the eye</string>
+    <string name="EyeTest05Price">Price: LKR.1000/=</string>
+    <string name="EyeTest05Check">Yes/No</string>
+    <string name="EyeTest06">Eye pressure</string>
+    <string name="EyeTest06Des">The test may require for people who are above 40 years, Family history of glaucoma</string>
+    <string name="EyeTest06Price">Price: LKR.750/=</string>
+    <string name="EyeTest06Check">Yes/No</string>
+    <string name="EyeTest07">Color vision</string>
+    <string name="EyeTest07Dec">Check color vision deficiency</string>
+    <string name="EyeTest07Price">Price: LKR.1500/=</string>
+    <string name="EyeTest07Check">Yes/No</string>
+    <string name="EyeTestPatient">Eye Testing Patient Details</string>
+    <string name="EyeTestPatientName">Name</string>
+    <string name="EyeTestPatientAge">Age</string>
+    <string name="EyeTestPatientSpectacle">Wear Spectacle</string>
+    <string name="EyeTestPatientGender">Gender</string>
+    <string name="EyeTestPatientDocter">Docter Name</string>
+    <string name="EyeTestPatientPhone">Phone</string>
+    <string name="EyeTestPatientEmail">Email</string>
+    <string name="EyeTTestPatientDate">Date for testing</string>
+    <string name="EyeTestPatientSubmit">SUBMIT</string>
+    <string name="EyeTestPatientClear">CLEAR</string>
+    <string name="EyeTestSubmit01">Successfull Submition</string>
+    <string name="EyeTestSubmit02">You can came any of these times.</string>
+    <string name="EyeTestSubmitTime01">10.30 AM - 12.30 AM</string>
+    <string name="EyeTestSubmitTime02">1.00 PM - 3.00 PM</string>
+    <string name="EyeTestSubmitTime03">4.00 PM - 8.00 PM</string>
+    <string name="DotorsList">List of Doctors</string>
+    <string name="DoctorsListName01">DR B. Amarasinghe - Eye Surgeon(Room No:001)</string>
+    <string name="DoctorsListMon">Mon</string>
+    <string name="DoctorsListTue">Tue</string>
+    <string name="DoctorsListWed">Wed</string>
+    <string name="DoctorsListThu">Thu</string>
+    <string name="DoctorsListFri">Fri</string>
+    <string name="DoctorsListSat">Sat</string>
+    <string name="DoctorsListSun">Sun</string>
+    <string name="DoctorsListName02">DR C. Bandara - Eye Surgeon(Room No:002)</string>
+    <string name="DoctorsListName03">DR(MRS) P. Silva - Paediatric Eye Surgeon(Room No:003)</string>
+    <string name="DoctorsListName04">DR(MRS) U. Dissanayaka - Eye Vision Checking(Room No:004)</string>
+    <string name="DoctorsListName05">DR A. Fernando - Eye Surgeon(Room No:005)</string>
+    <string name="DoctorsListName06">DR M. Perera - Eye Surgeon(Room No:006)</string>
+    <string name="DoctorsListBack">Back</string>
 </resources>
